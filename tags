@@ -1,0 +1,11 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+alrdyguessed	randguessgame.c	/^alrdyguessed(size_t *count, int *guessed, int guess)$/;"	kind:f	signature:(size_t *count, int *guessed, int guess)
+flushbuf	randguessgame.c	/^flushbuf(char *buf)$/;"	kind:f	signature:(char *buf)
+genwin	randguessgame.c	/^genwin(int min, int max)$/;"	kind:f	signature:(int min, int max)
+getintin	randguessgame.c	/^getintin(char *msg, int *pn)$/;"	kind:f	signature:(char *msg, int *pn)
+main	randguessgame.c	/^main(void)$/;"	kind:f	signature:(void)
